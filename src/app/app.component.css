@@ -1,0 +1,4 @@
+.container {
+  min-height: 65vh;  /* TAMANHO DO body PARA QUE O FOOTER FIQUE NO FIM DA PÁGINA  */
+  margin-top: 1em;
+}
