@@ -39,6 +39,8 @@ nav {
 
 #add a:hover {
   background-color: #efefef;
+  border: 1px solid;
+  border-radius: 5px;
 }
 
 
